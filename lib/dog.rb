@@ -12,3 +12,5 @@ class Dog
     @name
   end
 end
+
+kenny = Dog.new
