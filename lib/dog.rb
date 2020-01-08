@@ -24,4 +24,4 @@ end
 kenny = Dog.new
 bk = Dog.new
 kenny.name
-bk.name
+bk.breed
