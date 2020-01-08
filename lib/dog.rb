@@ -21,7 +21,7 @@ class Dog
   end
 end
 
-kenny = Dog.new("Wisdom")
-bk = Dog.new("Beagle")
+kenny = Dog.new
+bk = Dog.new
 kenny.name
 bk.name
